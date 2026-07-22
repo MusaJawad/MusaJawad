@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Musa Jawad
 
-<!--
-**MusaJawad/MusaJawad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Software Engineer and Software Engineering graduate from the
+University of Calgary.
 
-Here are some ideas to get you started:
+I build backend APIs, database-backed web applications, and full-stack
+products using C#, ASP.NET Core, Django, PostgreSQL, React, and TypeScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Work
+
+- DayhomeFlow — childcare management platform
+- Distributed Agar.io Clone — real-time distributed multiplayer game
+- Job Tracker API — authenticated ASP.NET Core REST API
+
+## Technologies
+
+C# • ASP.NET Core • SQL • PostgreSQL • Django • React • TypeScript • Docker
+
+## Connect
+
+[Portfolio](your portfolio link) •
+[LinkedIn](your LinkedIn link)
