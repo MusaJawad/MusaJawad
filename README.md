@@ -18,5 +18,5 @@ C# • ASP.NET Core • SQL • PostgreSQL • Django • React • TypeScript �
 
 ## Connect
 
-[Portfolio](your portfolio link) •
-[LinkedIn](your LinkedIn link)
+[Portfolio]([your portfolio link](https://musa-jawad-portfolio.vercel.app/)) •
+[LinkedIn]([your LinkedIn link](https://www.linkedin.com/in/musa-jawad-208807239/?skipRedirect=true))
